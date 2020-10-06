@@ -1,0 +1,72 @@
+/* regole generali */
+*{
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: lightblue;
+}
+
+
+.container-fluid{
+  background: yellow;
+  min-height: 100px;
+  border: 2px solid black;
+}
+
+.container{
+  background: pink;
+  min-height: 100px;
+  border: 2px solid black;
+}
+
+#iojumbotron{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#ioport{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.row{
+  min-height: 100px;
+  background: red;
+}
+
+#imgcentrale{
+  min-height: 100px;
+  background: orange;
+  border-radius: 5%;
+  width: 32%;
+}
+
+#imgcentralesuper{
+  min-height: 100px;
+  background: orange;
+  border-radius: 5%;
+  width: 32%;
+  margin-bottom: 2%;
+}
+
+#imgcentralea{
+  min-height: 100px;
+  background: orange;
+  border-radius: 5%;
+  width: 32%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#imgcentralesupera{
+  min-height: 100px;
+  background: orange;
+  border-radius: 5%;
+  width: 32%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
