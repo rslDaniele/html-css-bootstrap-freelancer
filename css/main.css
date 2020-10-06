@@ -20,6 +20,19 @@
 #iojumbotron{
   margin-top: 20px;
   margin-bottom: 20px;
+  text-align: center;
+  color: white;
+
+}
+
+#avatar{
+  width: 20%;
+}
+
+.divisore{
+  border-top: 3px solid white;
+  width: 35%;
+  margin-bottom: 10px;
 }
 
 #ioport{
